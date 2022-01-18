@@ -28,6 +28,7 @@ export default {
     SideBySide,
     ProductGrid,
     CollectionGrid,
+    ContentFlashSaleItem,
     NacelleComponentPlaceholder
   },
   props: {
